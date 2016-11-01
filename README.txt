@@ -22,7 +22,12 @@ S. Yoon and V. Pavlovic. "Distributed Probabilistic Learning for Camera Networks
 HOW TO RUN THE CODE
 ===================
 
-Requires a reasonably recent version of MATLAB (2011-). Just hit 
+Requires a reasonably recent version of MATLAB (2011-). Create two directories, [data] and [result] as
+
+>> mkdir('data');
+>> mkdir('result');
+
+Then, just hit 
 
 >> demo_all
 
